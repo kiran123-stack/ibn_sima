@@ -21,7 +21,7 @@ export const Footer = () => {
       {/* Premium Dark Gradient & Image Background */}
       <div className="absolute inset-0 z-0 opacity-30 mix-blend-luminosity">
         <Image
-          src= "/IMAGES/download.png"
+          src= "/IMAGES/images.png"
           alt="Footer Background"
           fill
           className="object-cover object-center grayscale"

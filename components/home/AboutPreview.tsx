@@ -57,7 +57,7 @@ export const AboutPreview = () => {
         <div className="w-full lg:w-[40%] relative h-[400px] sm:h-[500px] lg:h-[620px]">
           <div ref={imgRef} className="absolute inset-0 rounded-[36px] overflow-hidden">
             <Image
-              src="/Images/doctor_care.png"
+              src="/IMAGES/doctor_care.png"
               alt="IBN Sina Patient Coordinator"
               fill
               className="object-cover"
