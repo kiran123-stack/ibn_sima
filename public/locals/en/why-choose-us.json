@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "badge": "Why Choose IBN Sina",
+    "title": "You Should Never Feel Alone in a Foreign Healthcare System",
+    "subtitle": "Providing trusted medical coordination and personalized support for international patients.",
+    "description": "When you travel abroad for treatment, there are many things to think about—from choosing the right doctor and hospital to planning your travel and supporting your family. IBN Sina helps bring all these moving parts together."
+  },
+
+  "overview": {
+    "title": "A Trusted Partner Throughout Your Journey",
+    "description": "Our role is to make your medical journey simpler by helping you understand your options, coordinating with healthcare providers, and remaining by your side throughout the process."
+  },
+
+  "reasons": [
+    {
+      "title": "We Listen Before We Guide",
+      "description": "We begin by understanding your medical situation rather than immediately recommending a destination or treatment. Every patient deserves guidance based on their individual needs."
+    },
+    {
+      "title": "We Help You Explore Your Options",
+      "description": "Based on your medical requirements, we help coordinate suitable healthcare options with experienced hospitals and specialists in India."
+    },
+    {
+      "title": "We Help You Prepare",
+      "description": "Medical records, specialist consultations, appointments, travel planning, and hospital coordination can involve many steps. We help you navigate each one with confidence."
+    },
+    {
+      "title": "We Stay Connected",
+      "description": "Questions can arise at any stage of your healthcare journey. Our team remains available to provide guidance and support whenever you need it."
+    },
+    {
+      "title": "We Respect Your Decision",
+      "description": "Our role is to facilitate your healthcare journey. Treatment decisions should always be made by you in consultation with qualified medical professionals."
+    }
+  ],
+
+  "highlights": {
+    "title": "What Makes IBN Sina Different",
+    "items": [
+      {
+        "title": "Patient-First Approach",
+        "description": "Every recommendation begins with understanding your individual healthcare needs."
+      },
+      {
+        "title": "Trusted Medical Coordination",
+        "description": "We coordinate communication between patients, hospitals, and specialists to simplify the treatment journey."
+      },
+      {
+        "title": "Personalized Guidance",
+        "description": "Every medical journey is unique, and our support is tailored accordingly."
+      },
+      {
+        "title": "Continuous Support",
+        "description": "From your first enquiry to follow-up after treatment, we're here to help."
+      }
+    ]
+  },
+
+  "quote": {
+    "text": "Healthcare is more than finding the right hospital. It's about having the right people beside you throughout the journey."
+  },
+
+  "cta": {
+    "title": "Let Us Guide Your Healthcare Journey",
+    "description": "Whether you're seeking specialist advice, treatment planning, or hospital coordination, our experienced team is ready to help.",
+    "primaryButton": "Talk to a Patient Coordinator",
+    "secondaryButton": "Send Your Medical Reports"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "hero": {
+    "badge": "Medical Second Opinion",
+    "title": "Sometimes, You Just Need Another Opinion.",
+    "subtitle": "Get a specialist medical opinion from experienced healthcare professionals in India.",
+    "description": "A serious diagnosis can leave you with many questions. Whether you're unsure about surgery, exploring alternative treatment options, or simply seeking reassurance, a medical second opinion can help you make informed healthcare decisions."
+  },
+
+  "introduction": {
+    "title": "Why Consider a Second Opinion?",
+    "paragraphs": [
+      "A serious diagnosis can raise many questions and uncertainties.",
+      "Is surgery really necessary?",
+      "Are there other treatment options available?",
+      "Should I seek another specialist's opinion?",
+      "Getting a second medical opinion may help you better understand your condition and the treatment options available."
+    ]
+  },
+
+  "overview": {
+    "title": "How IBN Sina Can Help",
+    "description": "IBN Sina helps coordinate specialist medical opinions based on the medical information and reports you provide. We connect you with appropriate healthcare specialists in India to help you explore your options."
+  },
+
+  "process": {
+    "title": "The Process",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Share Your Medical Reports",
+        "description": "Upload your medical reports, scans, prescriptions, and other relevant documents."
+      },
+      {
+        "number": "02",
+        "title": "Case Assessment",
+        "description": "We review your medical information and understand your healthcare requirements."
+      },
+      {
+        "number": "03",
+        "title": "Specialist Coordination",
+        "description": "We coordinate your case with an appropriate medical specialist in India."
+      },
+      {
+        "number": "04",
+        "title": "Medical Review",
+        "description": "The specialist carefully reviews your medical records and provides a professional opinion."
+      },
+      {
+        "number": "05",
+        "title": "Receive Your Opinion",
+        "description": "You receive the specialist's medical opinion and can decide on the next steps with confidence."
+      }
+    ]
+  },
+
+  "importantNotice": {
+    "title": "Important Information",
+    "description": "A medical second opinion is based on the information and medical records available to the reviewing doctor. It does not replace an in-person examination when one is medically necessary."
+  },
+
+  "benefits": {
+    "title": "Benefits of a Medical Second Opinion",
+    "items": [
+      {
+        "title": "Greater Confidence",
+        "description": "Gain additional clarity before making important treatment decisions."
+      },
+      {
+        "title": "Expert Medical Review",
+        "description": "Receive an opinion from experienced specialists based on your medical records."
+      },
+      {
+        "title": "Explore Treatment Options",
+        "description": "Understand whether alternative treatment approaches may be available."
+      },
+      {
+        "title": "Informed Decisions",
+        "description": "Make healthcare decisions with better understanding and greater peace of mind."
+      }
+    ]
+  },
+
+  "cta": {
+    "title": "Request Your Medical Second Opinion",
+    "description": "Share your medical reports with our team, and we'll help coordinate a specialist review from experienced healthcare professionals in India.",
+    "primaryButton": "Send Your Medical Reports",
+    "secondaryButton": "Talk to a Patient Coordinator"
+  }
+}

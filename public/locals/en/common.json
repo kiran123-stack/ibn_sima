@@ -1,0 +1,50 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "treatments": "Treatments",
+    "whyIndia": "Why India",
+    "services": "Services",
+    "hospitals": "Hospitals & Doctors",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "buttons": {
+    "contact": "Contact Us",
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "sendReports": "Send Your Medical Reports",
+    "talkCoordinator": "Talk to a Patient Coordinator",
+    "startJourney": "Start Your Healthcare Journey",
+    "exploreTreatments": "Explore Medical Specialties"
+  },
+  "footer": {
+    "title": "IBN Sina ",
+    "subtitle": "Medical Tourism",
+    "description": "Helping patients from Iraq and the UAE access trusted healthcare in India.",
+    "rights": "All Rights Reserved.",
+    "quickLinks": "Quick Links",
+    "support": "Support",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "trust": {
+    "hospitals": "Hospital Network",
+    "countries": "3 Countries",
+    "patientSupport": "Patient Support",
+    "medicalCoordination": "Medical Coordination",
+    "assistance": "24/7 Assistance"
+  },
+  "cta": {
+    "beginJourney": "Begin Your Journey",
+    "confidential": "100% Confidential",
+    "response": "24–48 hr Response",
+    "regions": "Iraq · UAE · India"
+  },
+  "countries": {
+    "iraq": "Iraq",
+    "uae": "United Arab Emirates",
+    "india": "India"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "badge": "Countries We Serve",
+    "title": "Three Countries. One Connected Healthcare Journey.",
+    "subtitle": "Connecting patients from Iraq and the UAE with trusted healthcare providers in India.",
+    "description": "IBN Sina operates across Iraq, the UAE, and India, helping create a smoother connection between patients and healthcare providers for a seamless medical tourism experience."
+  },
+
+  "overview": {
+    "title": "A Healthcare Journey Without Borders",
+    "description": "With our presence in Iraq, the UAE, and India, we provide coordinated support throughout every stage of your treatment journey—from your first enquiry to follow-up after treatment."
+  },
+
+  "countries": [
+    {
+      "name": "Iraq",
+      "title": "Healthcare Support for Patients in Iraq",
+      "description": "For patients and families in Iraq, we help begin the healthcare journey closer to home by providing guidance, coordination, and ongoing support before travelling to India.",
+      "services": [
+        "Initial medical enquiries",
+        "Medical record coordination",
+        "Specialist opinions",
+        "Hospital recommendations",
+        "Treatment coordination",
+        "Patient communication"
+      ]
+    },
+    {
+      "name": "United Arab Emirates",
+      "shortName": "UAE",
+      "title": "Healthcare Support for Patients in the UAE",
+      "description": "Patients in the UAE can connect with our team to explore suitable healthcare options in India. We coordinate the journey from the initial consultation through treatment planning and hospital coordination.",
+      "services": [
+        "Medical consultation support",
+        "Treatment planning",
+        "Hospital coordination",
+        "Specialist referrals",
+        "Travel guidance",
+        "Patient assistance"
+      ]
+    },
+    {
+      "name": "India",
+      "title": "Your Treatment Destination",
+      "description": "India is where your treatment journey takes place. Our team coordinates with appropriate healthcare providers and supports international patients throughout their stay.",
+      "services": [
+        "Hospital coordination",
+        "Doctor appointments",
+        "International patient support",
+        "Local assistance",
+        "Follow-up coordination",
+        "Post-treatment communication"
+      ]
+    }
+  ],
+
+  "journey": {
+    "title": "A Connected Healthcare Pathway",
+    "steps": [
+      {
+        "title": "Iraq / UAE",
+        "description": "Begin your healthcare journey from your home country."
+      },
+      {
+        "title": "IBN Sina",
+        "description": "We coordinate every step of your medical journey."
+      },
+      {
+        "title": "India",
+        "description": "Receive treatment from experienced healthcare providers."
+      }
+    ],
+    "highlight": "A healthcare connection that crosses borders."
+  },
+
+  "whyChoose": {
+    "title": "Why Patients Choose IBN Sina",
+    "items": [
+      {
+        "title": "Regional Presence",
+        "description": "Supporting patients across Iraq, the UAE, and India."
+      },
+      {
+        "title": "End-to-End Coordination",
+        "description": "From your first enquiry to post-treatment follow-up."
+      },
+      {
+        "title": "Trusted Healthcare Network",
+        "description": "Connecting patients with appropriate hospitals and specialists in India."
+      },
+      {
+        "title": "Personalized Support",
+        "description": "Every patient's journey is coordinated according to their unique medical needs."
+      }
+    ]
+  },
+
+  "cta": {
+    "title": "Wherever You Are, We're Here to Help.",
+    "description": "Whether you're in Iraq or the UAE, our team is ready to guide you towards trusted healthcare options in India.",
+    "primaryButton": "Start Your Healthcare Journey",
+    "secondaryButton": "Talk to a Patient Coordinator"
+  }
+}

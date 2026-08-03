@@ -1,0 +1,55 @@
+{
+  "hero": {
+    "badge": "Frequently Asked Questions",
+    "title": "Medical Tourism FAQs",
+    "subtitle": "Find answers to common questions about medical treatment in India and the services provided by IBN Sina.",
+    "description": "Planning medical treatment in another country naturally raises many questions. Here are answers to some of the most common enquiries from international patients and their families."
+  },
+
+  "introduction": {
+    "title": "How Can We Help?",
+    "description": "If you cannot find the answer you're looking for, our patient coordinators are always available to provide personalized guidance."
+  },
+
+  "faqs": [
+    {
+      "question": "How do I start my treatment journey with IBN Sina?",
+      "answer": "Contact our team and tell us about your medical condition or treatment requirement. You can also share your available medical reports so that we can better understand your case."
+    },
+    {
+      "question": "Can I get a medical opinion before travelling to India?",
+      "answer": "In many cases, your medical records can be shared with a specialist for an initial review. Whether an in-person consultation is required depends on your medical condition and the doctor's recommendation."
+    },
+    {
+      "question": "Can I choose my doctor?",
+      "answer": "We can help you explore suitable specialist options based on your medical requirements. The final choice of doctor and treatment should always be made by you in consultation with qualified healthcare professionals."
+    },
+    {
+      "question": "How much does treatment in India cost?",
+      "answer": "There is no single price for medical treatment. The cost depends on your diagnosis, procedure, hospital, doctor, medical condition, length of stay, and other factors. We can help coordinate an estimated treatment proposal where available."
+    },
+    {
+      "question": "Can I bring a family member?",
+      "answer": "Patients travelling for treatment may be accompanied by family members or attendants, subject to applicable visa and travel requirements."
+    },
+    {
+      "question": "How long will I need to stay in India?",
+      "answer": "Your stay depends on your diagnosis and treatment. The treating doctor and hospital can provide a more accurate estimate after reviewing your case."
+    },
+    {
+      "question": "Do you help with medical visa requirements?",
+      "answer": "We can provide guidance and coordination related to the medical travel process. Visa decisions are made by the relevant authorities and are subject to current rules."
+    },
+    {
+      "question": "Can I get a second opinion?",
+      "answer": "Yes. We can help coordinate a specialist medical second opinion based on your available medical records."
+    }
+  ],
+
+  "contactSupport": {
+    "title": "Still Have Questions?",
+    "description": "Our experienced patient coordinators are here to help you understand your treatment options and guide you through every step of your healthcare journey.",
+    "primaryButton": "Talk to a Patient Coordinator",
+    "secondaryButton": "Send Your Medical Reports"
+  }
+}

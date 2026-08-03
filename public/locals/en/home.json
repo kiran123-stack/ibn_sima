@@ -1,0 +1,125 @@
+{
+  "hero": {
+    "badge": "Medical Tourism in India",
+    "title": "The Right Care Can Begin with the Right Connection.",
+    "subtitle": "Helping patients from Iraq and the UAE access trusted healthcare in India.",
+    "description": "When you or someone you love needs medical treatment, choosing where to go can feel overwhelming.",
+    "questions": [
+      "Which doctor should you consult?",
+      "Which hospital is right for your condition?",
+      "What will the treatment involve?",
+      "How do you manage everything when you are travelling to another country?"
+    ],
+    "content": "IBN Sina is here to make that journey easier. With operations in Iraq, the UAE, and India, we help patients connect with suitable doctors, hospitals, and healthcare services in India.",
+    "support": "From your first conversation with us to medical coordination, hospital appointments, travel support, and follow-up, we stay beside you throughout the journey.",
+    "highlight": "You focus on getting better. We help take care of the journey.",
+    "buttons": {
+      "primary": "Talk to a Patient Coordinator",
+      "secondary": "Send Your Medical Reports"
+    }
+  },
+
+  "about": {
+    "title": "Healthcare Should Not Feel Complicated",
+    "paragraphs": [
+      "Travelling to another country for medical treatment is a big decision.",
+      "For patients and their families, it is not only about finding a hospital. It is about finding the right medical expertise, understanding the available options, communicating comfortably, and knowing that someone is there when you need help.",
+      "That is where IBN Sina comes in.",
+      "We act as a bridge between patients in Iraq and the UAE and healthcare providers in India.",
+      "We listen to your needs, help coordinate your medical case, connect you with appropriate healthcare professionals, and support you through the practical side of your treatment journey."
+    ],
+    "quote": "One patient. One family. One journey at a time."
+  },
+
+  "whyChoose": {
+    "title": "Why Patients Choose IBN Sina",
+    "items": [
+      {
+        "title": "A Human Point of Contact",
+        "description": "Healthcare can be confusing, especially when you are far from home. Our team helps you understand the process and guides you through the next steps."
+      },
+      {
+        "title": "Access to Medical Expertise",
+        "description": "We help international patients explore suitable doctors and hospitals in India according to their medical requirements."
+      },
+      {
+        "title": "Support Before You Travel",
+        "description": "Your journey starts long before you board a flight. We help coordinate medical records, specialist consultations, hospital appointments, and treatment planning."
+      },
+      {
+        "title": "Support When You Arrive",
+        "description": "From hospital coordination to local assistance, our team helps make your stay more manageable."
+      },
+      {
+        "title": "Support After Treatment",
+        "description": "Our relationship does not have to end when you leave the hospital. We can help coordinate follow-up requirements and continued communication."
+      }
+    ]
+  },
+
+  "specialties": {
+    "title": "Medical Treatment in India",
+    "description": "India is home to a wide range of medical specialists, multispecialty hospitals, advanced diagnostic facilities, and modern treatment centres.",
+    "button": "Explore Medical Specialties",
+    "items": [
+      "Cardiology",
+      "Oncology",
+      "Neurology",
+      "Neurosurgery",
+      "Orthopaedics",
+      "Joint Replacement",
+      "Spine Care",
+      "Nephrology",
+      "Urology",
+      "Gastroenterology",
+      "IVF & Fertility",
+      "Paediatrics",
+      "Organ Transplantation",
+      "General & Minimally Invasive Surgery"
+    ]
+  },
+
+  "journey": {
+    "title": "Your Journey with IBN Sina",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Tell us what you need."
+      },
+      {
+        "number": "02",
+        "title": "Share your medical reports."
+      },
+      {
+        "number": "03",
+        "title": "We understand your case."
+      },
+      {
+        "number": "04",
+        "title": "We coordinate with the appropriate medical team."
+      },
+      {
+        "number": "05",
+        "title": "You receive information about your treatment options."
+      },
+      {
+        "number": "06",
+        "title": "We help coordinate your hospital journey."
+      },
+      {
+        "number": "07",
+        "title": "You travel to India for treatment."
+      },
+      {
+        "number": "08",
+        "title": "We continue to support you through your journey."
+      }
+    ]
+  },
+
+  "cta": {
+    "title": "It starts with a conversation.",
+    "description": "Begin your healthcare journey with guidance, coordination, and compassionate support from our experienced team.",
+    "button": "Start Your Healthcare Journey"
+  }
+}

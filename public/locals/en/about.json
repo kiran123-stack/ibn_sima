@@ -1,0 +1,75 @@
+{
+  "hero": {
+    "badge": "About IBN Sina",
+    "title": "Healthcare Is Personal. So Is Our Approach.",
+    "subtitle": "Connecting patients from Iraq and the UAE with trusted healthcare providers in India.",
+    "description": "IBN Sina was built around a simple understanding: when a person is searching for medical treatment, they are not looking for a transaction. They are looking for someone they can trust."
+  },
+
+  "introduction": {
+    "paragraphs": [
+      "We help patients from Iraq and the UAE explore healthcare options in India and navigate the journey with greater confidence.",
+      "Our operations across Iraq, the UAE, and India allow us to understand the needs of international patients while helping connect them with healthcare providers in India.",
+      "We coordinate the journey between patients, their families, doctors, hospitals, and essential support services.",
+      "Our work is not about recommending the same hospital or treatment for everyone. It is about understanding each individual case and helping patients move towards the most appropriate medical pathway."
+    ]
+  },
+
+  "mission": {
+    "title": "Our Mission",
+    "description": "To make the international healthcare journey easier, more transparent, and more human for patients and their families."
+  },
+
+  "vision": {
+    "title": "Our Vision",
+    "description": "To build a trusted healthcare bridge between patients across the Middle East and India's medical expertise."
+  },
+
+  "values": {
+    "title": "What We Believe",
+    "items": [
+      {
+        "title": "Trust Comes First",
+        "description": "Patients deserve clear communication, honest guidance, and dependable support throughout their healthcare journey."
+      },
+      {
+        "title": "Every Patient Is Different",
+        "description": "Healthcare should never be treated as a one-size-fits-all service. Every patient deserves an approach tailored to their individual needs."
+      },
+      {
+        "title": "Families Matter Too",
+        "description": "When one person travels for treatment, the entire family shares the journey. We support both patients and their loved ones."
+      },
+      {
+        "title": "Good Coordination Makes a Difference",
+        "description": "The right guidance and coordination can make an unfamiliar healthcare system easier to navigate with confidence."
+      }
+    ]
+  },
+
+  "stats": [
+    {
+      "value": "3",
+      "label": "Countries of Operation"
+    },
+    {
+      "value": "100%",
+      "label": "Personalized Patient Support"
+    },
+    {
+      "value": "End-to-End",
+      "label": "Medical Journey Coordination"
+    }
+  ],
+
+  "cta": {
+    "title": "Your Healthcare Journey Begins with Trust.",
+    "description": "Whether you're seeking specialist advice, hospital coordination, or treatment planning, our team is here to guide you every step of the way.",
+    "primaryButton": "Talk to a Patient Coordinator",
+    "secondaryButton": "Start Your Healthcare Journey"
+  },
+  "floatingCard": {
+    "title": "Personal Care",
+    "subtitle": "Every step of the way"
+  }
+}

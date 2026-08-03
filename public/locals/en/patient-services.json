@@ -1,0 +1,101 @@
+{
+  "hero": {
+    "badge": "International Patient Services",
+    "title": "We Help With the Journey Around Your Treatment",
+    "subtitle": "Supporting international patients before, during, and after their medical treatment in India.",
+    "description": "Medical treatment is the most important part of your journey, but there are many practical details around it. IBN Sina helps patients and their families coordinate every stage of the healthcare journey, making the process easier and more comfortable."
+  },
+
+  "overview": {
+    "title": "Comprehensive Patient Support",
+    "description": "From your first enquiry to your return home, our dedicated patient coordinators provide personalized assistance to help you navigate every step of your medical journey in India."
+  },
+
+  "services": {
+    "beforeTreatment": {
+      "title": "Before Treatment",
+      "description": "We help you prepare for your healthcare journey by coordinating the essential steps before you travel.",
+      "items": [
+        "Medical record coordination",
+        "Specialist consultation",
+        "Hospital coordination",
+        "Treatment planning",
+        "Appointment scheduling",
+        "Medical travel guidance"
+      ]
+    },
+
+    "duringTreatment": {
+      "title": "During Your Stay",
+      "description": "Once you arrive in India, our team remains available to support you throughout your treatment.",
+      "items": [
+        "Hospital coordination",
+        "Appointment support",
+        "Local assistance",
+        "Communication support",
+        "Accommodation assistance",
+        "Attendant coordination"
+      ]
+    },
+
+    "afterTreatment": {
+      "title": "After Treatment",
+      "description": "Our support continues even after your treatment is completed, ensuring a smooth recovery and return home.",
+      "items": [
+        "Discharge coordination",
+        "Follow-up appointments",
+        "Medical documentation",
+        "Continued communication",
+        "Return travel coordination"
+      ]
+    }
+  },
+
+  "benefits": {
+    "title": "Why Patients Trust IBN Sina",
+    "items": [
+      {
+        "title": "Dedicated Patient Coordinators",
+        "description": "A single point of contact to guide you throughout your healthcare journey."
+      },
+      {
+        "title": "End-to-End Coordination",
+        "description": "From medical records to hospital appointments and follow-up care."
+      },
+      {
+        "title": "Personalized Support",
+        "description": "Every patient's journey is tailored according to their medical needs."
+      },
+      {
+        "title": "Peace of Mind",
+        "description": "We simplify the practical aspects of medical travel so you can focus on your recovery."
+      }
+    ]
+  },
+
+  "goal": {
+    "title": "Our Goal",
+    "description": "Our goal is simple: to make the process around your treatment easier to manage."
+  },
+
+  "cta": {
+    "title": "Let Us Support Your Healthcare Journey",
+    "description": "Whether you're planning treatment, traveling to India, or returning home after care, our team is here to help every step of the way.",
+    "primaryButton": "Talk to a Patient Coordinator",
+    "secondaryButton": "Send Your Medical Reports"
+  },
+  "floatingCards": {
+    "before": {
+      "label": "Fully Coordinated",
+      "sub": "Before you travel"
+    },
+    "during": {
+      "label": "We Are With You",
+      "sub": "Throughout your stay"
+    },
+    "after": {
+      "label": "Ongoing Support",
+      "sub": "Even after you return"
+    }
+  }
+}

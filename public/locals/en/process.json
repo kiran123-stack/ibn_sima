@@ -1,0 +1,100 @@
+{
+  "hero": {
+    "badge": "Medical Tourism Process",
+    "title": "Your Journey. Step by Step.",
+    "subtitle": "A simple and guided process to help you access medical treatment in India with confidence.",
+    "description": "We know that medical travel can seem complicated. Our job is to make the process easier to understand and easier to manage."
+  },
+
+  "overview": {
+    "title": "How the Process Works",
+    "description": "From your first enquiry to follow-up after treatment, IBN Sina coordinates every important step of your healthcare journey."
+  },
+
+  "steps": [
+    {
+      "number": "01",
+      "title": "Start a Conversation",
+      "description": "Contact our team and tell us about your medical requirement."
+    },
+    {
+      "number": "02",
+      "title": "Share Your Medical Records",
+      "description": "Send relevant reports, scans, prescriptions, and previous treatment information."
+    },
+    {
+      "number": "03",
+      "title": "Case Review",
+      "description": "Our team reviews the information you provide and understands your medical requirements."
+    },
+    {
+      "number": "04",
+      "title": "Specialist Coordination",
+      "description": "We coordinate with an appropriate medical specialist or hospital based on your case."
+    },
+    {
+      "number": "05",
+      "title": "Medical Opinion",
+      "description": "The specialist reviews your medical information and provides an opinion or recommendation."
+    },
+    {
+      "number": "06",
+      "title": "Treatment Planning",
+      "description": "You receive information about the proposed treatment, hospital, expected stay, and other relevant details."
+    },
+    {
+      "number": "07",
+      "title": "Prepare for India",
+      "description": "Once you decide to proceed, we help coordinate the next steps for your medical journey."
+    },
+    {
+      "number": "08",
+      "title": "Arrive in India",
+      "description": "We assist with the practical aspects of your arrival and hospital visit."
+    },
+    {
+      "number": "09",
+      "title": "Treatment",
+      "description": "You receive treatment from the healthcare provider you have selected."
+    },
+    {
+      "number": "10",
+      "title": "Follow-Up",
+      "description": "After treatment, we help coordinate follow-up requirements and communication where needed."
+    }
+  ],
+
+  "benefits": {
+    "title": "Why Our Process Works",
+    "items": [
+      {
+        "title": "Clear Guidance",
+        "description": "Understand every stage of your medical journey before you travel."
+      },
+      {
+        "title": "Dedicated Coordination",
+        "description": "We coordinate between patients, hospitals, and specialists throughout the process."
+      },
+      {
+        "title": "Personalized Support",
+        "description": "Every treatment journey is planned according to your individual medical needs."
+      },
+      {
+        "title": "Continuous Assistance",
+        "description": "Support doesn't end after treatment—we remain available for follow-up coordination."
+      }
+    ]
+  },
+
+  "highlight": {
+    "title": "A Complicated Journey Doesn't Have to Feel Complicated.",
+    "description": "With experienced coordination and personalized support, we help make your medical travel experience as smooth as possible."
+  },
+
+  "cta": {
+    "title": "Ready to Start Your Healthcare Journey?",
+    "description": "Share your medical reports with our team, and we'll help you take the next step toward treatment in India.",
+    "primaryButton": "Start Your Journey",
+    "secondaryButton": "Talk to a Patient Coordinator"
+  }
+}

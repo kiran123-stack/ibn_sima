@@ -1,0 +1,50 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "about": "عن الشركة",
+    "treatments": "العلاجات",
+    "whyIndia": "لماذا الهند",
+    "services": "الخدمات",
+    "hospitals": "المستشفيات والأطباء",
+    "faq": "الأسئلة الشائعة",
+    "contact": "اتصل بنا"
+  },
+  "buttons": {
+    "contact": "اتصل بنا",
+    "learnMore": "اعرف المزيد",
+    "getStarted": "البدء",
+    "sendReports": "أرسل تقاريرك الطبية",
+    "talkCoordinator": "تحدث إلى منسق المرضى",
+    "startJourney": "ابدأ رحلة الرعاية الصحية الخاصة بك",
+    "exploreTreatments": "استكشف التخصصات الطبية"
+  },
+  "footer": {
+    "title": "ابن سينا للسياحة العلاجية",
+    "subtitle": "السياحة الطبية",
+    "description": "نساعد المرضى من العراق والإمارات على الوصول إلى رعاية صحية موثوقة في الهند.",
+    "rights": "جميع الحقوق محفوظة.",
+    "quickLinks": "روابط سريعة",
+    "support": "الدعم",
+    "contact": "اتصل بنا",
+    "privacy": "سياسة الخصوصية",
+    "terms": "شروط الخدمة"
+  },
+  "trust": {
+    "hospitals": "شبكة المستشفيات",
+    "countries": "3 دول",
+    "patientSupport": "دعم المرضى",
+    "medicalCoordination": "التنسيق الطبي",
+    "assistance": "مساعدة على مدار الساعة"
+  },
+  "cta": {
+    "beginJourney": "ابدأ رحلتك",
+    "confidential": "سري تماماً",
+    "response": "رد خلال 24–48 ساعة",
+    "regions": "العراق · الإمارات · الهند"
+  },
+  "countries": {
+    "iraq": "العراق",
+    "uae": "الإمارات العربية المتحدة",
+    "india": "الهند"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "badge": "Medical Treatments",
+    "title": "The Treatment You Need. The Medical Expertise You Are Looking For.",
+    "subtitle": "Helping international patients explore trusted medical treatment options in India.",
+    "description": "Every medical condition is different. That is why the first step should always be understanding your individual healthcare needs. IBN Sina helps international patients explore treatment options across a wide range of medical specialties in India."
+  },
+
+  "overview": {
+    "title": "Comprehensive Medical Specialties",
+    "description": "India is home to experienced specialists and advanced healthcare facilities across multiple medical disciplines. We help coordinate your journey based on your specific medical condition and treatment requirements."
+  },
+
+  "specialties": [
+    {
+      "title": "Cardiology & Cardiac Surgery",
+      "description": "For patients seeking diagnosis, cardiac interventions, heart surgery, and specialised cardiovascular care."
+    },
+    {
+      "title": "Oncology",
+      "description": "Support for patients exploring cancer diagnosis and treatment, including surgical, medical, and radiation oncology."
+    },
+    {
+      "title": "Neurology & Neurosurgery",
+      "description": "Coordination for neurological conditions, brain disorders, and complex neurosurgical requirements."
+    },
+    {
+      "title": "Orthopaedics & Joint Replacement",
+      "description": "Treatment options for joint problems, fractures, sports injuries, and knee and hip replacement."
+    },
+    {
+      "title": "Spine Care",
+      "description": "Support for patients exploring treatment for spinal disorders, including surgical and minimally invasive approaches."
+    },
+    {
+      "title": "Nephrology & Kidney Care",
+      "description": "Specialist care for kidney-related conditions and treatment requirements."
+    },
+    {
+      "title": "Gastroenterology",
+      "description": "Diagnosis and treatment for conditions affecting the digestive system."
+    },
+    {
+      "title": "Urology",
+      "description": "Specialised treatment for urinary and male reproductive health conditions."
+    },
+    {
+      "title": "IVF & Fertility",
+      "description": "Support for couples and individuals exploring fertility assessment and assisted reproductive treatment."
+    },
+    {
+      "title": "Paediatrics",
+      "description": "Medical care for children through appropriate paediatric specialists."
+    },
+    {
+      "title": "Organ Transplantation",
+      "description": "Coordination with appropriate transplant centres for eligible patients, subject to medical, legal, and regulatory requirements."
+    },
+    {
+      "title": "Other Specialties",
+      "description": "If your medical requirement is not listed here, contact our team. We can review your needs and explore suitable healthcare options."
+    }
+  ],
+
+  "whyChoose": {
+    "title": "Why Choose IBN Sina",
+    "items": [
+      {
+        "title": "Personalized Treatment Guidance",
+        "description": "Every recommendation is based on your individual medical condition and healthcare requirements."
+      },
+      {
+        "title": "Access to Experienced Specialists",
+        "description": "We coordinate with qualified doctors and hospitals across a wide range of medical specialties."
+      },
+      {
+        "title": "End-to-End Medical Coordination",
+        "description": "From reviewing your reports to planning your treatment journey, our team supports you throughout the process."
+      },
+      {
+        "title": "Trusted Healthcare Network",
+        "description": "Helping patients connect with suitable hospitals and healthcare providers across India."
+      }
+    ]
+  },
+
+  "note": {
+    "title": "Every Patient Is Different",
+    "description": "The most appropriate treatment depends on your medical condition, diagnosis, and the recommendation of qualified healthcare professionals. Our role is to help coordinate your healthcare journey and connect you with suitable specialists."
+  },
+
+  "cta": {
+    "title": "Tell Us What Treatment You Need",
+    "description": "Share your medical reports with our team, and we'll help you explore suitable treatment options and healthcare providers in India.",
+    "primaryButton": "Tell Us What Treatment You Need",
+    "secondaryButton": "Talk to a Patient Coordinator"
+  }
+}

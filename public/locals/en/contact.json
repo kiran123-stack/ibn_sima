@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "badge": "Contact Us",
+    "title": "Let's Start with a Conversation",
+    "subtitle": "Your healthcare journey starts with a conversation.",
+    "description": "You do not need to have all the answers before contacting us. Tell us what you are looking for, tell us about your medical condition, and share your medical reports if you have them. Our team will help you understand the next step."
+  },
+
+  "contactInfo": {
+    "title": "Get in Touch",
+    "description": "Our patient coordinators are here to guide you through every step of your medical journey. Whether you need a specialist opinion, hospital coordination, or treatment planning, we're ready to help."
+  },
+
+  "form": {
+    "title": "Send Your Medical Enquiry",
+    "description": "Complete the form below and our team will contact you as soon as possible.",
+
+    "fields": {
+      "name": {
+        "label": "Full Name",
+        "placeholder": "Enter your full name"
+      },
+      "country": {
+        "label": "Country",
+        "placeholder": "Select your country"
+      },
+      "phone": {
+        "label": "Phone / WhatsApp",
+        "placeholder": "Enter your phone or WhatsApp number"
+      },
+      "email": {
+        "label": "Email Address",
+        "placeholder": "Enter your email address"
+      },
+      "medicalCondition": {
+        "label": "Medical Condition / Treatment Required",
+        "placeholder": "Briefly describe your medical condition or the treatment you are seeking"
+      },
+      "reports": {
+        "label": "Upload Medical Reports",
+        "placeholder": "Upload reports, scans, prescriptions, or other relevant medical documents"
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Tell us more about your enquiry"
+      }
+    },
+
+    "buttons": {
+      "submit": "Send My Medical Enquiry",
+      "coordinator": "Talk to a Patient Coordinator"
+    }
+  },
+
+  "whyContact": {
+    "title": "Why Contact IBN Sina?",
+    "items": [
+      {
+        "title": "Personalized Guidance",
+        "description": "Receive one-to-one support based on your medical needs."
+      },
+      {
+        "title": "Hospital Coordination",
+        "description": "We help connect you with suitable hospitals and specialists in India."
+      },
+      {
+        "title": "Treatment Planning",
+        "description": "Understand your treatment options before making any decisions."
+      },
+      {
+        "title": "Travel Support",
+        "description": "Get assistance with planning your healthcare journey to India."
+      }
+    ]
+  },
+
+  "cta": {
+    "title": "Ready to Begin Your Healthcare Journey?",
+    "description": "Our experienced team is here to support you from your first enquiry through treatment and follow-up.",
+    "primaryButton": "Send Your Medical Enquiry",
+    "secondaryButton": "Talk to a Patient Coordinator"
+  },
+
+  "successMessage": {
+    "title": "Thank You!",
+    "description": "Your enquiry has been received successfully. A patient coordinator will contact you shortly."
+  },
+
+  "validation": {
+    "nameRequired": "Please enter your full name.",
+    "countryRequired": "Please select your country.",
+    "phoneRequired": "Please enter your phone number.",
+    "emailRequired": "Please enter your email address.",
+    "emailInvalid": "Please enter a valid email address.",
+    "conditionRequired": "Please describe your medical condition.",
+    "messageRequired": "Please enter your message."
+  }
+}

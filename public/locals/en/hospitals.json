@@ -1,0 +1,82 @@
+{
+  "hero": {
+    "badge": "Hospitals & Specialist Doctors",
+    "title": "The Right Doctor Matters. The Right Hospital Matters Too.",
+    "subtitle": "Helping international patients connect with suitable hospitals and specialist doctors in India.",
+    "description": "India has thousands of hospitals and a large number of medical specialists. Choosing the right healthcare provider can be challenging when you are in another country. IBN Sina helps patients explore appropriate healthcare options based on their medical needs."
+  },
+
+  "introduction": {
+    "title": "Personalized Hospital & Doctor Coordination",
+    "description": "Every patient's medical condition is unique. Instead of providing a generic list of hospitals, we carefully understand your medical requirements and help coordinate with appropriate hospitals and specialists in India."
+  },
+
+  "services": {
+    "title": "Our Hospital & Doctor Coordination Includes",
+    "items": [
+      {
+        "title": "Specialist Doctors",
+        "description": "Connect with experienced medical specialists based on your diagnosis and treatment requirements."
+      },
+      {
+        "title": "Multispecialty Hospitals",
+        "description": "Access leading hospitals offering comprehensive care across multiple medical specialties."
+      },
+      {
+        "title": "Specialized Treatment Centres",
+        "description": "Receive guidance toward hospitals and centres dedicated to your specific medical condition."
+      },
+      {
+        "title": "Advanced Diagnostic Facilities",
+        "description": "Coordinate diagnostic investigations with modern medical facilities."
+      },
+      {
+        "title": "Surgical Care",
+        "description": "Support in connecting with experienced surgical teams for appropriate treatment."
+      },
+      {
+        "title": "International Patient Services",
+        "description": "Benefit from dedicated hospital departments that assist international patients throughout their treatment journey."
+      }
+    ]
+  },
+
+  "approach": {
+    "title": "Our Approach",
+    "description": "We believe the right healthcare decision should begin with understanding the patient's medical condition—not by recommending the same hospital to everyone.",
+    "highlight": "Your medical needs come first."
+  },
+
+  "process": {
+    "title": "How We Help",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Understand Your Medical Condition"
+      },
+      {
+        "number": "02",
+        "title": "Review Your Medical Reports"
+      },
+      {
+        "number": "03",
+        "title": "Coordinate with Appropriate Specialists"
+      },
+      {
+        "number": "04",
+        "title": "Recommend Suitable Hospital Options"
+      },
+      {
+        "number": "05",
+        "title": "Support Your Treatment Journey"
+      }
+    ]
+  },
+
+  "cta": {
+    "title": "Find the Right Hospital for Your Treatment",
+    "description": "Our patient coordinators are here to help you explore suitable hospitals and specialist doctors based on your individual healthcare needs.",
+    "primaryButton": "Talk to a Patient Coordinator",
+    "secondaryButton": "Send Your Medical Reports"
+  }
+}

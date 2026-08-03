@@ -1,0 +1,70 @@
+{
+  "hero": {
+    "badge": "Why India",
+    "title": "Why Are Patients Looking Towards India?",
+    "subtitle": "Discover why India has become a preferred destination for international medical treatment.",
+    "description": "For many international patients, choosing a country for medical treatment is a major decision. India has become an important destination for patients seeking specialised healthcare across a wide range of medical disciplines."
+  },
+  "overview": {
+    "title": "Why International Patients Choose India",
+    "description": "India offers experienced medical specialists, modern healthcare facilities, advanced treatment technologies, and comprehensive patient care, making it a trusted destination for patients from around the world."
+  },
+  "advantages": [
+    {
+      "title": "Experienced Medical Specialists",
+      "description": "India has a large healthcare ecosystem with specialists working across a wide range of medical disciplines."
+    },
+    {
+      "title": "Advanced Healthcare Facilities",
+      "description": "Many hospitals across India offer modern diagnostic, surgical, and treatment technologies."
+    },
+    {
+      "title": "Wide Range of Medical Specialties",
+      "description": "Patients can access specialised care in cardiology, oncology, neurology, orthopaedics, transplantation, fertility, and many other medical fields."
+    },
+    {
+      "title": "Multispecialty Care",
+      "description": "Complex medical conditions often require more than one specialist. Multispecialty hospitals bring different areas of expertise together under one roof."
+    },
+    {
+      "title": "International Patient Departments",
+      "description": "Many leading hospitals have dedicated teams to assist patients travelling from other countries throughout their treatment journey."
+    },
+    {
+      "title": "A Diverse Healthcare Ecosystem",
+      "description": "India offers healthcare options across different hospital groups, specialties, and locations, allowing patients to explore suitable treatment choices."
+    }
+  ],
+  "important": {
+    "title": "But Choosing the Right Hospital Matters",
+    "description": "India is a large country with many hospitals and doctors. The challenge is not simply finding a hospital it is finding a healthcare provider that is appropriate for your medical needs.",
+    "highlight": "That is where IBN Sina can help."
+  },
+  "whyIbnSina": {
+    "title": "How IBN Sina Supports You",
+    "items": [
+      {
+        "title": "Personalized Guidance",
+        "description": "We understand your medical requirements before recommending suitable healthcare options."
+      },
+      {
+        "title": "Hospital Coordination",
+        "description": "We help connect you with appropriate hospitals and specialists based on your condition."
+      },
+      {
+        "title": "Treatment Planning",
+        "description": "Our team helps coordinate consultations, appointments, and treatment planning before you travel."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "From your first enquiry to follow-up after treatment, we remain by your side throughout the journey."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Explore Healthcare Opportunities in India",
+    "description": "Let our experienced team help you connect with trusted hospitals and specialists for your medical treatment in India.",
+    "primaryButton": "Start Your Healthcare Journey",
+    "secondaryButton": "Talk to a Patient Coordinator"
+  }
+}
