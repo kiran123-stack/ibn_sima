@@ -3,6 +3,10 @@
 A production-grade, bilingual (English + Arabic) medical tourism website built with **Next.js 16**, **TypeScript**, **Tailwind CSS v4**, **GSAP**, and **Lenis**. Designed as a luxury healthcare concierge experience — not a clinical medical website.
 
 > **Live Architecture Demo**[ibn-sima.vercel.app] — This project demonstrates a complete client-side internationalization (i18n) system with RTL support, built without any i18n routing library, proving that bilingual web apps don't require complex middleware setups.
+>
+
+<img width="1327" height="636" alt="image" src="https://github.com/user-attachments/assets/274423db-3168-4135-b3c0-dcbb04843e04" />
+
 
 ---
 
